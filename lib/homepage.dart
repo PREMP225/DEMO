@@ -26,7 +26,7 @@ cameraController = CameraController(cameras.first, ResolutionPreset.medium,enabl
 
   }
   setState(() {
-    
+debugPrint('======>');    
   });
  });
  }
