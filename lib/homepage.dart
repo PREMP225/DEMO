@@ -26,7 +26,7 @@ cameraController = CameraController(cameras.first, ResolutionPreset.medium,enabl
 
   }
   setState(() {
-debugPrint('======>Halo Demo Account');    
+debugPrint('======>Halo Demo Account bnfgvfvc');    
   });
  });
  }
@@ -39,7 +39,7 @@ debugPrint('======>Halo Demo Account');
     super.dispose();
   }
   
-
+  
   @override
   void initState() {
     super.initState();
